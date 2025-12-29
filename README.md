@@ -13,6 +13,14 @@ Outputs:
 
 ---
 
+## Clone the repo
+
+```bash
+git clone https://github.com/EastWestWP/dedupe_sku.git
+cd dedupe_sku
+```
+---
+
 ## Quick Start (Windows)
 
 1. Put these files in one folder:

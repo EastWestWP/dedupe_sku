@@ -1,7 +1,9 @@
 # SKU Deduper (Keep Highest Price)
 
 This tool cleans a store product Excel export by removing duplicate SKUs.
-**Rule:** if multiple rows share the same SKU, keep the row with the **highest price**.
+
+**Rule:** 
+ - If multiple rows share the same SKU, keep the row with the **highest price**.
 
 It also prevents Excel from showing large numeric IDs in scientific notation by forcing all **ID-like columns** (any header containing `id`) to be written as **TEXT**.
 
